@@ -18,11 +18,10 @@
     background-size: cover;
     background-position: center;
     background-color: var(--first-background-color);
-    text-align: center;
   }
   
   .banner-title {
-    /* margin-bottom: 40px; */
+   
     width: 652px;
     margin: 0 auto 30px;
   
@@ -31,7 +30,6 @@
     line-height: 1.36;
     letter-spacing: 0.06em;
     text-transform: uppercase;
-    text-align: center;
   
     color: var(--primary-white-color);
   }

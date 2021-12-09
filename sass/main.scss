@@ -1,5 +1,21 @@
 @import './utils/vars';
 @import './base/reset';
 
+@import './base/common';
+@import './components/container';
+@import './utils/hidden';
+
 @import './layouts/header';
-@import './layouts/hero'
+@import './layouts/hero';
+@import './layouts/benefits';
+@import './layouts/works';
+@import './layouts/team';
+@import './layouts/clients';
+@import './layouts/footer';
+@import './layouts/portfolio-filter';
+@import './layouts/portfolio-gallery';
+
+
+@import './layouts/modal';
+@import './layouts/modal-form'
+
