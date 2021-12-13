@@ -1,9 +1,13 @@
-
 body {
     font-family: Roboto, sans-serif;
-    color: var(--primary-text-color);
+    color: $primary-text-color;
   }
   
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
   
   
   .section {
@@ -11,14 +15,6 @@ body {
     padding-bottom: 94px;
   }
 
-
-
-a {
-    text-decoration: none;
+  button {
+    cursor: pointer;
   }
-  
-  ul {
-    list-style: none;
-    padding-left: 0;
-  }
-  

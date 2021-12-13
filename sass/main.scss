@@ -1,9 +1,15 @@
 @import './utils/vars';
 @import './base/reset';
+@import './utils/mixins';
 
 @import './base/common';
 @import './components/container';
+@import './components/title';
+@import './components/list';
 @import './utils/hidden';
+
+@import './components/logo';
+@import './components/networks-icon';
 
 @import './layouts/header';
 @import './layouts/hero';
@@ -17,5 +23,5 @@
 
 
 @import './layouts/modal';
-@import './layouts/modal-form'
+@import './layouts/modal-form';
 
